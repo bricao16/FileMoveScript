@@ -149,9 +149,7 @@ newSourceFilesNumber = 0
 #method to connect to server and copy files to
 def serverconnect():
     #user information
-    userName = "autodkt"
-    pwd = "9AaRcVS6KP"
-    ip = "156.127.114.160"
+
 
     # ip = args.ipaddress
     # userName = args.username
